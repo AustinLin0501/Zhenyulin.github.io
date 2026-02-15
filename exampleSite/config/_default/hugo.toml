@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = 'en-us'
-title = 'SANS'
+title = 'Zhenyu lin'
 theme = 'sans'
 publishDir = "public"
 
